@@ -20,6 +20,7 @@ The Value at Risk (VaR) Calculator is a Python script designed for financial ris
 
    ```bash
    python var_calculator.py [-m RISK_FACTOR]
+   ```
 
     Replace RISK_FACTOR with 1 for one risk factor or 2 for two risk factors.
 
