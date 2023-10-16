@@ -26,10 +26,10 @@ The Value at Risk (VaR) Calculator is a Python script designed for financial ris
 
 ### Parameters
 
-    amount: The amount of the investment or portfolio.
-    exchange_rate: The exchange rate used for currency conversion.
-    daily_returns: A list of daily returns used to calculate volatility.
-    confidence_level: The desired confidence level for the VaR calculation (e.g., 95%).
-    risk_factor_n: The number of risk factors considered (1 or 2).
-    exchange_rate_bills: A specific exchange rate for Treasury Bills (used only if risk_factor_n is 2).
-    correlation_coefficient: A coefficient for measuring the correlation between risk factors (used only if risk_factor_n is 2).
+    amount                    -> The amount of the investment or portfolio.
+    exchange_rate             -> The exchange rate used for currency conversion.
+    daily_returns             -> A list of daily returns used to calculate volatility.
+    confidence_level          -> The desired confidence level for the VaR calculation (e.g., 95%).
+    risk_factor_n             -> The number of risk factors considered (1 or 2).
+    exchange_rate_bills       -> A specific exchange rate for Treasury Bills (used only if risk_factor_n is 2).
+    correlation_coefficient:  -> A coefficient for measuring the correlation between risk factors (used only if risk_factor_n is 2).
