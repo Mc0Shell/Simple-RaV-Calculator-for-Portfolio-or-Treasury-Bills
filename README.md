@@ -44,6 +44,7 @@ volatility.
 ### Example
 
 A sample of daily returns is provided in the code. In a real-world application, you would replace this data with actual daily returns for the asset or portfolio you are interested in.
+
 Next update: Online scrap data
 
 ### Result
