@@ -5,11 +5,9 @@ def calculate_var(amount, exchange_rate, daily_returns, confidence_level, risk_f
     volatility = np.std(daily_returns)
     
     if risk_factor_n == 1:
-        # Calcolo del VaR con un fattore di rischio
         var = amount * exchange_rate * volatility * 1.65
         return var
     elif risk_factor_n == 2:
-        # Calcolo del VaR con due fattori di rischio
         var1 = amount * exchange_rate * exchange_rate_bills * 1.65
         var2 = amount * exchange_rate * volatility * 1.65
         total_var = pow(pow(var1, 2) + pow(var2, 2) - (2 * correlation_coefficient * var1 * var2), 1/2)
