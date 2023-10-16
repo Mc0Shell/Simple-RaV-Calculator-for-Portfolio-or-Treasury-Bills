@@ -2,9 +2,11 @@
 The Value at Risk (VaR) Calculator is a Python script designed for financial risk management. It serves as a powerful tool for assessing potential financial losses with a specified confidence level, taking into account various risk factors such as currency exchange rates and 
 volatility.
 
-<div align="center">
-![var](https://github.com/Mc0Shell/Simple-RaV-Calculator-for-Portfolio-or-Treasury-Bills/assets/55066055/f884996c-e6f5-4a03-aeec-2f9ce17cefad)
-</div>
+<p align="center">
+
+    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://github.com/Mc0Shell/Simple-RaV-Calculator-for-Portfolio-or-Treasury-Bills/assets/55066055/f884996c-e6f5-4a03-aeec-2f9ce17cefad)" alt="Material Bread logo">
+
+</p>
 
 ## Usage
 
