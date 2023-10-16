@@ -6,7 +6,7 @@ The Value at Risk (VaR) Calculator is a Python script designed for financial ris
 ### Prerequisites
 
 - Python
-- NumPy (for mathematical operations)
+- NumPy 
 
 ### Running the Code
 
