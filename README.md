@@ -39,4 +39,5 @@ The Value at Risk (VaR) Calculator is a Python script designed for financial ris
 A sample of daily returns is provided in the code. In a real-world application, you would replace this data with actual daily returns for the asset or portfolio you are interested in.
 Result
 
+### Resault
 The script calculates the VaR based on the specified risk factors and parameters and prints the result. It provides a measure of potential loss with the specified confidence level.
